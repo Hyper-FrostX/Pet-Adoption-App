@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_paw">#FF8A5C</color> <!-- Soft Orange -->
+    <color name="secondary_paw">#FFD8BE</color> <!-- Peach -->
+    <color name="text_color">#4A4A4A</color>
+</resources>

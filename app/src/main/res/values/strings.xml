@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Pet-Adoption</string>
+    <string name="adopting_pet">Adopting %1$s</string>
+    <string name="error_name_required">Full Name is required</string>
+    <string name="error_phone_required">Phone Number is required</string>
+    <string name="error_email_required">Email is required</string>
+    <string name="error_address_required">Address is required</string>
+    <string name="error_reason_required">Please provide a reason</string>
+    <string name="adoption_request_success">Adoption request submitted successfully!</string>
+    <string name="error_prefix">Error: %1$s</string>
+    <string name="shelter_registration">Shelter Registration</string>
+    <string name="shelter_registration_subtitle">Join our community to help pets find homes</string>
+    <string name="hint_shelter_name">Shelter Name</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_location">Location</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="btn_register_shelter">Register Shelter</string>
+    <string name="error_shelter_name_required">Shelter Name is required</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_password_too_short">Password must be at least 6 characters</string>
+    <string name="error_passwords_do_not_match">Passwords do not match</string>
+    <string name="welcome_shelter_placeholder">Welcome, %1$s!</string>
+    <string name="shelter_registration_success">Shelter registered successfully!</string>
+</resources>

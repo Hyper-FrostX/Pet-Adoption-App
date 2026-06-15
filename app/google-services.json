@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087264332536",
+    "project_id": "petadoptionapp-78484",
+    "storage_bucket": "petadoptionapp-78484.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087264332536:android:a8a3bebdd2c7329d78f90d",
+        "android_client_info": {
+          "package_name": "com.example.pet_adoption"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2JFdC5Un9ez0vEFsq8eFI1dZzRc4bRdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
